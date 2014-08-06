@@ -6,7 +6,7 @@ The iOS/MacOS SDK provides a flexible and easy to integrate payment solution for
 ## Sample App for iOS
 
 
-<a href="https://itunes.apple.com/us/app/vouchermill/id757789501">
+<a href="https://itunes.apple.com/hk/app/vouchermill/id757789501?mt=8">
   <img alt="Get it on the App Store"
        src="https://devimages.apple.com.edgekey.net/app-store/marketing/guidelines/images/app-store-icon.png" />
 </a>
